@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Data files
+data/
+*.csv
+*.xlsx
+
+# OS/system files
+.DS_Store
